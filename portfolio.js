@@ -32,7 +32,7 @@ const directories = {
         '<white>education</white>',
 
         '* <a href="https://www.glsuniversity.ac.in/" target="_blank" >GLS University</a> <yellow>"MSC (IT)"</yellow> 2022 - 2024',
-        '* <a href="https://www.gujaratuniversity.ac.in/" target="_blank" >Gujarat University</a> <yellow>"BSC"</yellow> 2000-2002',
+        '* <a href="https://www.gujaratuniversity.ac.in/" target="_blank" >Gujarat University</a> <yellow>"BSC"</yellow> 2019 - 2022',
         ''
     ],
     about: [
