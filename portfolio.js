@@ -46,13 +46,15 @@ const directories = {
         '* <a href="https://www.linkedin.com/in/dakshmakwana" target="_blank" >Linked In Profile</a>',
         ''
     ],
-    experience: [
+    blog: [
         '',
-        '<white>Work Experience</white>',
+        '<white>Blog Sites</white>',
         [
-            ['WebMobTech Solution',
-             'https://webmobtech.com/',
-             'Laravel Developer - 1 yrs'
+            ['Personal Blog',
+             'https://webdevcodehub.com/',
+            ],
+            ['Medium Blog',
+            'https://medium.com/@dakshmakwana2146',
             ],
         ].map(([name, url, description = '']) => {
             return `* <a href="${url}" target="_blank">${name}</a> &mdash; <white>${description}</white>`;
